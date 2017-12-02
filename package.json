@@ -1,0 +1,22 @@
+{
+  "name": "googlecodein",
+  "version": "1.0.0",
+  "description": "Code written For Google-Code-In",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarmilind457/GoogleCodeIn.git"
+  },
+  "author": "“Milind <“kumarmilind457@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumarmilind457/GoogleCodeIn/issues"
+  },
+  "homepage": "https://github.com/kumarmilind457/GoogleCodeIn#readme"
+}
